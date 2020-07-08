@@ -1,2 +1,5 @@
-# AngryBirdsStage3
-Stage 3 Angry Birds: Introducing Constraint
+# C33
+
+Output link 
+
+https://dewoolkaridhish4.github.io/C33/.
